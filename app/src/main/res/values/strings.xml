@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProjetoIMC</string>
+
+    <string name="imc_severely_low_weight">Severamente abaixo do peso</string>
+    <string name="imc_very_low_weight">Muito abaixo do peso</string>
+    <string name="imc_low_weight">Abaixo do peso</string>
+    <string name="normal">Normal</string>
+    <string name="imc_high_weight">Acima do peso</string>
+    <string name="imc_so_high_weight">Moderadamente obeso</string>
+    <string name="imc_severely_high_weight">Severamente obeso</string>
+    <string name="imc_extreme_Weight">Extremamente obeso</string>
+
+
+    // String de valor dinamico, sequencia de caracteres que permite valores com duas casas decimais
+    <string name="imc_response">Imc: %1$.2f</string>
+    
+</resources>
